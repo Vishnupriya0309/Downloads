@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+.img{
+    background-color: #fff;
+    height: 1050px;
+    width:800px;
+    margin: 500px auto ;
+    border-radius:100px ;
+}
+
+img{
+    height: 600px;
+    width: 600px;
+    margin:50px 100px;
+}
+h2{
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+}
+p{
+   font-size: 40px;
+   text-align: center;
+   color: #666060a1;
+   padding: 20px;
+}
